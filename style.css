@@ -20,6 +20,11 @@ h4{
   font-style: italic;
 }
 
+.pageLink{
+  text-align: center;
+  align: center;
+}
+
 a{
   text-align: center;
   text-decoration: none;
