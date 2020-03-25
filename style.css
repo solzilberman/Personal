@@ -20,6 +20,14 @@ h4{
   font-style: italic;
 }
 
+h5{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 1.15em;
+  font-style: bold;
+}
+
 .pageLink{
   text-align: center;
   align: center;
