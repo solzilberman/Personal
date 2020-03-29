@@ -13,6 +13,7 @@ body {
   padding: 1em 0;
 }
 
+
 h4{
   margin-top: 50px;
   text-align: center;
@@ -33,7 +34,7 @@ h5{
   align: center;
 }
 
-a{
+.boxLink{
   text-align: center;
   text-decoration: none;
   font-weight: bold;
@@ -43,7 +44,7 @@ a{
   color: black;
 }
 
-a:hover{
+.boxLink:hover{
   color: blue;
   font-size: larger;
 }
